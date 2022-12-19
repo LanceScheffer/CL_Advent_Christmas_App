@@ -14,10 +14,14 @@
 }
 
 .modal-content {
+  background-image: url("../../../assets/svg/christmas-6809681.svg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
   width: 600px;
   height: 350px;
   background-color: white;
-  border-radius: 40% 10% / 20% 50%;
+  border-radius: 25px 25px;
   text-align: center;
   padding: 15px;
   position: relative;
