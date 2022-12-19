@@ -7,7 +7,7 @@ export class CardService {
   private _cardData = [
     {
       cardNumber: 1,
-      body: 'Christmas content for card 1',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y",
     },
     {
       cardNumber: 2,
