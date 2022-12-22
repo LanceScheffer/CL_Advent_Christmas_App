@@ -13,12 +13,14 @@
           gridItemBackOdd: data.cardNumber % 2 !== 0
         }">
         <p>Rejoice!  There are only {{25-data.cardNumber}} days left until Christmas!</p>
-        <button>
+        <button
+        class="button"
+        (click)="onClick()"
+        >
         <img
         class="icon"
-        (click)="onClick()"
         src="../../../assets/svg/play-button-4210.svg"
-        alt=""
+        alt="play"
         width="26"
         height="25">
         </button>
