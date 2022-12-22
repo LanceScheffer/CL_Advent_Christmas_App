@@ -47,19 +47,19 @@ export class CardService {
     },
     {
       cardNumber: 11,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/U5uRQ84kBRA?autoplay=1",
     },
     {
       cardNumber: 12,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/2Y8a2VmvXCE?autoplay=1",
     },
     {
       cardNumber: 13,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/g-UbKW4XJsE?autoplay=1",
     },
     {
       cardNumber: 14,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/aAkMkVFwAoo?autoplay=1",
     },
     {
       cardNumber: 15,
@@ -75,7 +75,7 @@ export class CardService {
     },
     {
       cardNumber: 18,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/qUCNAnp2QAI?autoplay=1",
     },
     {
       cardNumber: 19,
