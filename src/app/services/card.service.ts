@@ -7,103 +7,103 @@ export class CardService {
   private _cardData = [
     {
       cardNumber: 1,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y",
+      url: "https://www.youtube.com/embed/4WvwX18oMR4?autoplay=1",
     },
     {
       cardNumber: 2,
-      body: 'Christmas content for card 2',
+      url: "https://www.youtube.com/embed/zifGp5KTBKg?autoplay=1",
     },
     {
       cardNumber: 3,
-      body: 'Christmas content for card 3',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 4,
-      body: 'Christmas content for card 4',
+      url: "https://www.youtube.com/embed/sE3uRRFVsmc?autoplay=1",
     },
     {
       cardNumber: 5,
-      body: 'Christmas content for card 5',
+      url: "https://www.youtube.com/embed/FOVCtUdaMCU?autoplay=1",
     },
     {
       cardNumber: 6,
-      body: 'Christmas content for card 6',
+      url: "https://www.youtube.com/embed/GfZPtkqXQIA?autoplay=1",
     },
     {
       cardNumber: 7,
-      body: 'Christmas content for card 7',
+      url: "https://www.youtube.com/embed/N6p6LRtQ2WY?autoplay=1",
     },
     {
       cardNumber: 8,
-      body: 'Christmas content for card 8',
+      url: "https://www.youtube.com/embed/5ytnReUSyrU?autoplay=1",
     },
     {
       cardNumber: 9,
-      body: 'Christmas content for card 9',
+      url: "https://www.youtube.com/embed/A4zBSnMhvI0?autoplay=1",
     },
     {
       cardNumber: 10,
-      body: 'Christmas content for card 10',
+      url: "https://www.youtube.com/embed/Vj0wzAaqzss?autoplay=1",
     },
     {
       cardNumber: 11,
-      body: 'Christmas content for card 11',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 12,
-      body: 'Christmas content for card 12',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 13,
-      body: 'Christmas content for card 13',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 14,
-      body: 'Christmas content for card 14',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 15,
-      body: 'Christmas content for card 15',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 16,
-      body: 'Christmas content for card 16',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 17,
-      body: 'Christmas content for card 17',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 18,
-      body: 'Christmas content for card 18',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 19,
-      body: 'Christmas content for card 19',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 20,
-      body: 'Christmas content for card 20',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 21,
-      body: 'Christmas content for card 21',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 22,
-      body: 'Christmas content for card 22',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 23,
-      body: 'Christmas content for card 23',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 24,
-      body: 'Christmas content for card 24',
+      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
     },
     {
       cardNumber: 25,
-      body: 'Christmas content for card 25',
+      url: "https://www.youtube.com/embed/1oThvaBcAEY?autoplay=1",
     },
   ];
   data = [];
