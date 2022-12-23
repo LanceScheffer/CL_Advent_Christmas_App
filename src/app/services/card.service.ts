@@ -15,7 +15,7 @@ export class CardService {
     },
     {
       cardNumber: 3,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/EMUQ0GnPVVE?autoplay=1",
     },
     {
       cardNumber: 4,

@@ -13,18 +13,25 @@
   left: 0;
 }
 
-.modal-content {
-  background-image: url("../../../assets/19963242_6188517.jpg");
+.modal {
+  background-image: url("../../../assets/svg/movie_frame.svg");
   background-size: cover;
   display: flex;
   justify-content: center;
-  width: 600px;
-  height: 350px;
-  background-color: white;
+  height: 25rem;
+  width: 40rem;
+  background-color: aliceblue;
   border-radius: 25px 25px;
   text-align: center;
   padding: 15px;
   position: relative;
+}
+
+.modal-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.3rem;
 }
 
 .close {
