@@ -63,15 +63,15 @@ export class CardService {
     },
     {
       cardNumber: 15,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/sZSu0sgtA68?autoplay=1",
     },
     {
       cardNumber: 16,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/wuYR2zDB0bE?autoplay=1",
     },
     {
       cardNumber: 17,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/Bo0w_mA5CJc?autoplay=1",
     },
     {
       cardNumber: 18,
@@ -79,27 +79,27 @@ export class CardService {
     },
     {
       cardNumber: 19,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/7LD9LfW8m4M?autoplay=1",
     },
     {
       cardNumber: 20,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/cLC70ax28-0?autoplay=1",
     },
     {
       cardNumber: 21,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/5_o65q1y60M?autoplay=1",
     },
     {
       cardNumber: 22,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/7Ypo_6MEIj0?autoplay=1",
     },
     {
       cardNumber: 23,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/hwacxSnc4tI?autoplay=1",
     },
     {
       cardNumber: 24,
-      url: "https://www.youtube.com/embed/ttI5LJsXE8Y?autoplay=1",
+      url: "https://www.youtube.com/embed/jDdSQlCbJ90?autoplay=1",
     },
     {
       cardNumber: 25,
