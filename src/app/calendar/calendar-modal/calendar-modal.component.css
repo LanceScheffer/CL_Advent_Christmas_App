@@ -37,8 +37,11 @@
 .close {
   position: absolute;
   top: 0;
-  right: 50px;
-  font-size: 30px;
+  right: 3.2rem;
+  font-size: 50px;
   transform: rotate(45deg);
   cursor: pointer;
+  color: red;
+  margin-top: .4rem;
+  /* margin-right: 0.2rem; */
 }
