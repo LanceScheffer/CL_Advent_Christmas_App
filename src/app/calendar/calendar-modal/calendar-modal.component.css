@@ -13,20 +13,35 @@
   left: 0;
 }
 
-.modal-content {
-  width: 600px;
-  height: 350px;
-  background-color: white;
-  border-radius: 40% 10% / 20% 50%;
+.modal {
+  background-image: url("../../../assets/svg/movie_frame.svg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  height: 25rem;
+  width: 40rem;
+  background-color: aliceblue;
+  border-radius: 25px 25px;
   text-align: center;
   padding: 15px;
   position: relative;
 }
 
+.modal-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.3rem;
+}
+
 .close {
   position: absolute;
   top: 0;
-  right: 50px;
-  font-size: 30px;
+  right: 3.2rem;
+  font-size: 50px;
   transform: rotate(45deg);
+  cursor: pointer;
+  color: red;
+  margin-top: .4rem;
+  /* margin-right: 0.2rem; */
 }

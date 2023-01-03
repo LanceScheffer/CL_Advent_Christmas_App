@@ -9,7 +9,7 @@ export class CalendarCardComponent {
   @Input() data!: any;
   @Output() cycleData = new EventEmitter();
 
-  today = 12;
+  today = 25;
 
   onClick() {
     this.cycleData.emit(this.data);

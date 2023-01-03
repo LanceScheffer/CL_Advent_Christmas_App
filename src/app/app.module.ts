@@ -12,6 +12,7 @@ import { CalendarCardComponent } from './calendar/calendar-card/calendar-card.co
 import { CalendarModalComponent } from './calendar/calendar-modal/calendar-modal.component';
 import { AuthComponent } from './auth/auth.component';
 import { PageNotFoundComponent } from './shared/page-not-found/page-not-found.component';
+import { SafePipe } from './shared/safe-pipe';
 
 @NgModule({
   declarations: [
@@ -23,6 +24,7 @@ import { PageNotFoundComponent } from './shared/page-not-found/page-not-found.co
     CalendarModalComponent,
     AuthComponent,
     PageNotFoundComponent,
+    SafePipe
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule, HttpClientModule],
   providers: [],
